@@ -1,1 +1,1 @@
-require('./hello-world.js')({server: "ws://192.168.1.50:3000/"});
+require('./hello-world.js')({server: "ws://voxel-adam-test.herokuapp.net/"});
