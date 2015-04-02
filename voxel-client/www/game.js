@@ -84980,7 +84980,7 @@ function randomName() {
   return names[~~(Math.random() * names.length)]
 }
 },{}],86:[function(require,module,exports){
-require('./hello-world.js')({server: "ws://voxel-adam-test.herokuapp.net/"});
+require('./hello-world.js')({server: "ws://voxel-adam-test.herokuapp.com/"});
 },{"./hello-world.js":87}],87:[function(require,module,exports){
 var createClient = require('../')
 var highlight = require('voxel-highlight')
